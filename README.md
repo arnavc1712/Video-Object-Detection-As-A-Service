@@ -1,5 +1,6 @@
 # Video-Object-Detection-As-A-Service
-Highly scalable cloud service for object detection in videos, with the help of AWS services and a Raspberry Pi, with the ability to scale out or in using the number of messages in SQS. <br/>
+Highly scalable cloud service for object detection in videos, with the help of AWS services and a Raspberry Pi, with the ability to scale out or in using the number of messages in SQS. <br/> <br/>
+Through this project, we aim to gain an understanding of edge and cloud computing. Edge computing is achieved with the help of Raspberry Pi, which we aim to use as the edge computing device. As the aim of the project is to perform object detection, we will make use of camera module functionality along with Pi. We aim to make adequate use of the resources on Pi as well as of the EC2 instances, which will form the cloud computing component of the project.<br/> <br/>
 Please refer to the [Report](Report.pdf) for further details into the project and instruction to get set up.
 
 ## High Level Architecture
